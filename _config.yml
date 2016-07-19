@@ -1,0 +1,14 @@
+layout_spectrum: 0.7374731753952801
+typography_spectrum: 0.7023097246419638
+color:
+  brandStrength: 0.6903773983940482
+  lightness: 0.5400124453008175
+  saturation: 0.5439935750328004
+  rhythmicContrast: 0.30790141597390175
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: iot
